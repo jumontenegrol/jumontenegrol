@@ -6,11 +6,10 @@
 
 ###
 
-<h2 align="left">Contacto</h2>
-<p align="left">✉Email: jumontenegrol@unal.edu.co<br>
-###
+<h2 align="left">Contacto📧</h2>
+<p align="left">Email: jumontenegrol@unal.edu.co<br>
 
-<h2 align="left">Acerca de mi</h2>
+<h2 align="left">Acerca de mi🐵</h2>
 
 ###
 
@@ -18,7 +17,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias🤑</h2>
 
 ###
 
