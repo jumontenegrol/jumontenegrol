@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Hola, que tal</h1>
 
-<!--
-**jumontenegrol/jumontenegrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Mi nombre es Juan Montenegro</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Contacto</h2>
+<p align="left">✉Email: jumontenegrol@unal.edu.co<br>
+###
+
+<h2 align="left">Acerca de mi</h2>
+
+###
+
+<p align="left">📚 Soy estudiante de ingeniería de sistemas de la UNAL<br>⚽🔊 Apasionado por el deporte y la musica<br>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<p align="left">🗿Lenguajes: Python, javascript, SQL<br>💻Frontend: React, CSS, HTML<br>
+
+###
